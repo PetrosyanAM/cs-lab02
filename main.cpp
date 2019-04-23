@@ -3,7 +3,7 @@
 using namespace std;
 
 cout << "Enter A and B:";
-int a, b;
+int double;
 cin >> a >> b;
 cout << "A + B = "<< a+b<<'\n'
      << "A - B = "<< a-b<<'\n'
